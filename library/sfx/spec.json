@@ -1,0 +1,136 @@
+{
+  "sfx": [
+    {
+      "file": "whoosh.mp3",
+      "text": "fast clean airy whoosh transition, modern social media edit",
+      "seconds": 0.8,
+      "influence": 0.6
+    },
+    {
+      "file": "swoosh-up.mp3",
+      "text": "quick rising swoosh, short, light",
+      "seconds": 0.7,
+      "influence": 0.6
+    },
+    {
+      "file": "pop.mp3",
+      "text": "soft bubbly UI pop, very short, clean",
+      "seconds": 0.5,
+      "influence": 0.7
+    },
+    {
+      "file": "click.mp3",
+      "text": "single crisp computer mouse click",
+      "seconds": 0.5,
+      "influence": 0.7
+    },
+    {
+      "file": "ding.mp3",
+      "text": "bright clean notification ding",
+      "seconds": 1,
+      "influence": 0.6
+    },
+    {
+      "file": "impact.mp3",
+      "text": "deep punchy cinematic bass hit, short tail, for a hook",
+      "seconds": 1.5,
+      "influence": 0.6
+    },
+    {
+      "file": "riser.mp3",
+      "text": "short tension riser building up into a hit",
+      "seconds": 2,
+      "influence": 0.6
+    },
+    {
+      "file": "glitch.mp3",
+      "text": "short digital glitch stutter, a broken app malfunctioning",
+      "seconds": 0.8,
+      "influence": 0.6
+    },
+    {
+      "file": "error.mp3",
+      "text": "short UI error buzz, negative beep",
+      "seconds": 0.6,
+      "influence": 0.7
+    },
+    {
+      "file": "typing.mp3",
+      "text": "fast mechanical keyboard typing",
+      "seconds": 1.5,
+      "influence": 0.6
+    },
+    {
+      "file": "sparkle.mp3",
+      "text": "short bright sparkle shimmer",
+      "seconds": 1,
+      "influence": 0.6
+    },
+    {
+      "file": "shutter.mp3",
+      "text": "camera shutter click",
+      "seconds": 0.5,
+      "influence": 0.7
+    },
+    {
+      "file": "cash.mp3",
+      "text": "cash register cha-ching",
+      "seconds": 1,
+      "influence": 0.7
+    },
+    {
+      "file": "scratch.mp3",
+      "text": "vinyl record scratch, comedic stop",
+      "seconds": 0.8,
+      "influence": 0.7
+    },
+    {
+      "file": "printer.mp3",
+      "text": "small home inkjet printer printing one page, mechanical whirr and paper feed, short",
+      "seconds": 1.5,
+      "influence": 0.6
+    },
+    {
+      "file": "gavel.mp3",
+      "text": "judge's wooden gavel striking a sound block twice in a courtroom, crisp, short",
+      "seconds": 1.2,
+      "influence": 0.7
+    },
+    {
+      "file": "lock.mp3",
+      "text": "heavy metal padlock snapping shut, single crisp click",
+      "seconds": 0.6,
+      "influence": 0.7
+    },
+    {
+      "file": "crack.mp3",
+      "text": "sharp glass cracking and breaking, short, no long tail",
+      "seconds": 1,
+      "influence": 0.6
+    },
+    {
+      "file": "shutter-roll.mp3",
+      "text": "metal roller shutter of a shop rolling down fast and slamming shut with a thud, short",
+      "seconds": 1.2,
+      "influence": 0.6
+    },
+    {
+      "file": "thud.mp3",
+      "text": "a heavy rubber stamp hammered down hard onto paper on a wooden desk, one single deep punchy thud, short and dry, no reverb",
+      "seconds": 0.8,
+      "influence": 0.7
+    },
+    {
+      "file": "notify.mp3",
+      "text": "single short smartphone notification ring, a bright quick trring like a new comment alert on a phone, clean, crisp, no reverb",
+      "seconds": 0.6,
+      "influence": 0.7
+    },
+    {
+      "file": "snap.mp3",
+      "text": "a single crisp finger snap, close, dry, no room",
+      "seconds": 0.5,
+      "influence": 0.8
+    }
+  ]
+}

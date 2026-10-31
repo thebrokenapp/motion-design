@@ -1,0 +1,42 @@
+# Your keys, footage and work stay on your machine
+.env
+.env.*
+!.env.example
+reels/*
+!reels/README.md
+docs/this-machine.md
+.claude/settings.local.json
+
+# Installed or generated
+node_modules/
+.venv/
+.venv-whisper/
+.models/
+catalog/
+.claude/skills/
+.agents/
+skills-lock.json
+__pycache__/
+*.pyc
+library/sfx/*.mp3
+library/sfx/durations.json
+out/
+keytest.flac
+whispertest.*
+
+# Video, sound and pictures, wherever they get dropped
+*.[mM][pP]4
+*.[mM][oO][vV]
+*.[mM]4[vV]
+*.[mM][kK][vV]
+*.[wW][eE][bB][mM]
+*.[aA][vV][iI]
+*.3[gG][pP]
+*.[wW][aA][vV]
+*.[fF][lL][aA][cC]
+*.[mM][pP]3
+*.[mM]4[aA]
+*.[pP][nN][gG]
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.[hH][eE][iI][cC]
